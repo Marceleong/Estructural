@@ -1,0 +1,7 @@
+# Dependencias del modulo estructural.
+#
+# Instalar con:  pip install -r requirements.txt
+#
+# El motor no usa ninguna libreria externa: solo Python de fabrica.
+# pytest es lo unico que se instala, y es para correr las pruebas.
+pytest
